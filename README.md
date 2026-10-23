@@ -3,7 +3,7 @@
 Minimal working examples for
 
 > C. Corral-Casas, J. Alary, J. P. Ewen, D. Dini, *From Electron Density to Ionic Conductivity for the Mechanistic
-> Understanding of a Fast Charging Acetone Electrolyte*, npj Computational Materials (2026).
+> Understanding of a Fast Charging Acetone Electrolyte*, submitted to npj Computational Materials (2026).
 
 The analyses of the paper were run with research scripts written for the authors' file system. This repository
 reimplements each analysis as a short, documented function, using the same definitions, cutoffs, windows and
