@@ -62,19 +62,6 @@ python3 examples/05_electronic_structure.py
 
 Simulation inputs and drivers are described in [`inputs/README.md`](inputs/README.md).
 
-## Agreement with the published values
-
-All examples reproduce the published values to the quoted digits, except for these rounding differences in the last
-digit:
-
-- Table 2: OPLS-ECC CN(sulfonyl) 0.855 (published 0.86) and the SD of its carbonyl r_min, 0.07 (0.06); ByteFF-Pol
-  carbonyl r_min 3.15 (3.16).
-- Tables 3 and 4: CN(sulfonyl) 0.855 at q = 0.725 (0.86); CN(carbonyl) 4.56 at Δσ = +0.15 Å (4.57); O/FSI 0.01 lower
-  at Δσ = +0.10, +0.15 and +0.25 Å.
-- Figs. 9 and 10: REPEAT charges of a free carbonyl and sulfonyl O, −0.565 and −0.514 e averaged beyond 5 Å (the
-  figure's bulk bins give −0.566 and −0.512 e); REPEAT dipole of a free DMK 3.695 D (3.70); ByteFF-Pol dipole gain
-  +28.45 % (28.5 %).
-
 ## Tests
 
 `pytest tests` checks the core functions on synthetic data and needs no download.
