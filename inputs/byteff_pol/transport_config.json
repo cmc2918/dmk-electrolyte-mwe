@@ -1,0 +1,18 @@
+{
+    "protocol": "Transport",
+    "params_dir": "transport_params",
+    "output_dir": "production_results",
+    "working_dir": "working_dir",
+    "temperature": 298,
+    "natoms": 3540,
+    "components": {
+        "DMK": 320,
+        "LI": 34,
+        "FSI": 34
+    },
+    "smiles": {
+        "DMK": "CC(=O)C",
+        "LI": "[Li+]",
+        "FSI": "O=S(=O)([N-]S(=O)(=O)F)F"
+    }
+}
