@@ -1,5 +1,7 @@
 # dmk-electrolyte-mwe
 
+[![DOI](https://helix.imperial.ac.uk/badge/DOI/10.82186/23kt9-tkq05.svg)](https://doi.org/10.82186/23kt9-tkq05)
+
 Minimal working examples for
 
 > C. Corral-Casas, J. Alary, J. P. Ewen, D. Dini, *From Electron Density to Ionic Conductivity for the Mechanistic
@@ -13,7 +15,7 @@ next to the published values.
 ## Data
 
 The examples read the dataset deposited at Imperial College London's Helix repository
-(https://doi.org/10.XXXX/XXXX, CC BY 4.0). Download the archives, unzip them all in one folder, and point the
+(https://doi.org/10.82186/23kt9-tkq05, CC BY 4.0). Download the archives, unzip them all in one folder, and point the
 examples to it:
 
 ```bash
