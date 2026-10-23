@@ -13,7 +13,8 @@ next to the published values.
 ## Data
 
 The examples read the dataset deposited at Imperial College London's Helix repository
-(https://doi.org/10.XXXX/XXXX, CC BY 4.0). Download it and point the examples to it:
+(https://doi.org/10.XXXX/XXXX, CC BY 4.0). Download the archives, unzip them all in one folder, and point the
+examples to it:
 
 ```bash
 export DMK_DATA=/path/to/helix_data
